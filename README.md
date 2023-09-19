@@ -1,13 +1,23 @@
 # Quantum Machine Learning
 
 Welcome to the Quantum Machine Learning repository! This repository is a collection of resources, tutorials, research papers, and code related to the fascinating field of Quantum Machine Learning.
+## Table of Contents
+
+1. [Prerequisite](#prerequisite)
+2. [Introduction to Quantum Machine Learning](#introduction-to-quantum-machine-learning)
+3. [Getting Started](#getting-started)
+4. [Resources](#resources)
+5. [Contributing](#contributing)
+6. [License](#license)
+
 
 ## Prerequisite 
+
 1. Linear algebra
-  - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-  - [Linear Algebra from Khan Academy](https://www.khanacademy.org/math/linear-algebra)
-  - [Linear Algebra by AI Applied Course](https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2829/why-learn-it/0/free-videos)
-  - [Mathematics for Machine Learning: Linear Algebra by Imperial College London at Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
+    - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+    - [Linear Algebra from Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+    - [Linear Algebra by AI Applied Course](https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2829/why-learn-it/0/free-videos)
+    - [Mathematics for Machine Learning: Linear Algebra by Imperial College London at Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
 2. Complex numbers
 3. calculus
 4. Intermediate Python
@@ -15,13 +25,7 @@ Welcome to the Quantum Machine Learning repository! This repository is a collect
 6. Quantum physics
 7. Machine learning
 
-## Table of Contents
 
-1. [Introduction to Quantum Machine Learning](#introduction-to-quantum-machine-learning)
-2. [Getting Started](#getting-started)
-3. [Resources](#resources)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction to Quantum Machine Learning
 
