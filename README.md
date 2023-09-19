@@ -4,6 +4,10 @@ Welcome to the Quantum Machine Learning repository! This repository is a collect
 
 ## Prerequisite 
 1. Linear algebra
+  - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [Linear Algebra from Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+  - [Linear Algebra by AI Applied Course](https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2829/why-learn-it/0/free-videos)
+  - [Mathematics for Machine Learning: Linear Algebra by Imperial College London at Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
 2. Complex numbers
 3. calculus
 4. Intermediate Python
