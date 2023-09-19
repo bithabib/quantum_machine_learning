@@ -49,7 +49,7 @@ If you're new to Quantum Machine Learning, here are some essential resources to 
 - [Paper Title 2](link_to_paper2) - Summary or key points.
 
 ### Tutorials and Online Courses
-- [University_of_TorontoX UTQML101x Quantum Machine Learning](link_to_tutorial1) -Distinguish between quantum computing paradigms relevant for machine learning
+- [University_of_TorontoX UTQML101x Quantum Machine Learning](link_to_tutorial1) - The pace of development in quantum computing mirrors the rapid advances made in machine learning and artificial intelligence. It is natural to ask whether quantum technologies could boost learning algorithms: this field of inquiry is called quantum-enhanced machine learning. The goal of this course is to show what benefits current and future quantum technologies can provide to machine learning, focusing on algorithms that are challenging with classical digital computers. We put a strong emphasis on implementing the protocols, using open source frameworks in Python. Prominent researchers in the field will give guest lectures to provide extra depth to each major topic. These guest lecturers include Alán Aspuru-Guzik, Seth Lloyd, Roger Melko, and Maria Schuld. We encourage you to watch (and enjoy) these guest lectures. The guest lectures are, however, optional. 
 
 
 ### Blogs and Articles
