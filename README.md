@@ -2,6 +2,15 @@
 
 Welcome to the Quantum Machine Learning repository! This repository is a collection of resources, tutorials, research papers, and code related to the fascinating field of Quantum Machine Learning.
 
+## Prerequisite 
+1. Linear algebra
+2. Complex numbers
+3. calculus
+4. Intermediate Python
+5. Statistical mechanics
+6. Quantum physics
+7. Machine learning
+
 ## Table of Contents
 
 1. [Introduction to Quantum Machine Learning](#introduction-to-quantum-machine-learning)
