@@ -32,8 +32,8 @@ If you're new to Quantum Machine Learning, here are some essential resources to 
 - [Paper Title 2](link_to_paper2) - Summary or key points.
 
 ### Tutorials and Online Courses
-- [Tutorial/Course Title 1](link_to_tutorial1) - Description or brief summary.
-- [Tutorial/Course Title 2](link_to_tutorial2) - Description or brief summary.
+- [University_of_TorontoX UTQML101x Quantum Machine Learning](link_to_tutorial1) -Distinguish between quantum computing paradigms relevant for machine learning
+
 
 ### Blogs and Articles
 - [Blog/Article Title 1](link_to_blog1) - Summary or key points.
