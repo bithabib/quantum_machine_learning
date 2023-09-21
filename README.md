@@ -41,8 +41,8 @@ If you're new to Quantum Machine Learning, here are some essential resources to 
 ## Resources
 
 ### Books
-- [Book Title 1](link_to_book1) - Description or brief summary.
-- [Book Title 2](link_to_book2) - Description or brief summary.
+- [Quantum Mechanics: The Theoretical Minimum Book by Leonard Susskind](/books/QuaMecTheTheMin.pdf) - Quantum Mechanics: The Theoretical Minimum is an excellent book for beginners who want to get familiar with the basic ideas behind quantum mechanics. Art Friedman and Leonard Susskind are both highly-experienced physicists who have studied everything from classical physics to the ideas of the most respected theoretical physicist.
+
 
 ### Research Papers
 - [Paper Title 1](link_to_paper1) - Summary or key points.
