@@ -20,7 +20,7 @@ Welcome to the Quantum Machine Learning repository! This repository is a collect
     - [Mathematics for Machine Learning: Linear Algebra by Imperial College London at Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
 2. Complex numbers
     - [Intro to the geometry complex numbers.](https://www.youtube.com/watch?v=5PcpBw5Hbwo)
-4. calculus
+4. Calculus
 5. Intermediate Python
 6. Statistical mechanics
 7. Quantum physics
