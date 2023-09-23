@@ -19,11 +19,12 @@ Welcome to the Quantum Machine Learning repository! This repository is a collect
     - [Linear Algebra by AI Applied Course](https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2829/why-learn-it/0/free-videos)
     - [Mathematics for Machine Learning: Linear Algebra by Imperial College London at Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
 2. Complex numbers
-3. calculus
-4. Intermediate Python
-5. Statistical mechanics
-6. Quantum physics
-7. Machine learning
+    - [Intro to the geometry complex numbers.](https://www.youtube.com/watch?v=5PcpBw5Hbwo)
+4. calculus
+5. Intermediate Python
+6. Statistical mechanics
+7. Quantum physics
+8. Machine learning
 
 
 
