@@ -47,8 +47,7 @@ If you're new to Quantum Machine Learning, here are some essential resources to 
 
 
 ### Research Papers
-- [Paper Title 1](link_to_paper1) - Summary or key points.
-- [Paper Title 2](link_to_paper2) - Summary or key points.
+- [Grover’s Algorithm: Quantum Database Search∗](research_paper/GroverAlgorithm_QuantumDatabaseSearch.pdf) - We review Grover’s algorithm by means of a detailed geometrical interpretation and a worked out example. Some basic concepts of Quantum Mechanics and quantum circuits are also reviewed. This work is intended for nonspecialists which have basic knowledge on undergraduate Linear Algebra.
 
 ### Tutorials and Online Courses
 - [University_of_TorontoX UTQML101x Quantum Machine Learning](link_to_tutorial1) - The pace of development in quantum computing mirrors the rapid advances made in machine learning and artificial intelligence. It is natural to ask whether quantum technologies could boost learning algorithms: this field of inquiry is called quantum-enhanced machine learning. The goal of this course is to show what benefits current and future quantum technologies can provide to machine learning, focusing on algorithms that are challenging with classical digital computers. We put a strong emphasis on implementing the protocols, using open source frameworks in Python. Prominent researchers in the field will give guest lectures to provide extra depth to each major topic. These guest lecturers include Alán Aspuru-Guzik, Seth Lloyd, Roger Melko, and Maria Schuld. We encourage you to watch (and enjoy) these guest lectures. The guest lectures are, however, optional. 
