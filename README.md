@@ -43,7 +43,7 @@ If you're new to Quantum Machine Learning, here are some essential resources to 
 
 ### Books
 - [Quantum Mechanics: The Theoretical Minimum Book by Leonard Susskind](/books/QuaMecTheTheMin.pdf) - Quantum Mechanics: The Theoretical Minimum is an excellent book for beginners who want to get familiar with the basic ideas behind quantum mechanics. Art Friedman and Leonard Susskind are both highly-experienced physicists who have studied everything from classical physics to the ideas of the most respected theoretical physicist.
-- [ Quantum Computing for Everyone by Chris Bernhardt](/books/Quantum Computing for Everyone (The MIT Press).pdf.pdf)  This book is published by MIT Press in 2019. It is an accessible introduction to quantum computing that explains topics such as qubits, entanglement, and quantum teleportation for the general reader.
+- [ Quantum Computing for Everyone by Chris Bernhardt](/books/Quantum_Computing_for_Everyone.pdf)  This book is published by MIT Press in 2019. It is an accessible introduction to quantum computing that explains topics such as qubits, entanglement, and quantum teleportation for the general reader.
 
 
 ### Research Papers
