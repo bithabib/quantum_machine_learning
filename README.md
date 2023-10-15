@@ -60,7 +60,7 @@ If you're new to Quantum Machine Learning, here are some essential resources to 
 - [Blog/Article Title 2](link_to_blog2) - Summary or key points.
 
 ### Open Source Projects
-- [Project Title 1](link_to_project1) - Description or brief summary.
+- [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language).
 - [Project Title 2](link_to_project2) - Description or brief summary.
 
 ## Contributing
